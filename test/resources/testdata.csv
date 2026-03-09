@@ -1,0 +1,4 @@
+username,password,shouldSucceed
+student,Password123,true
+invalid,Password123,false
+student,wrongpass,false
